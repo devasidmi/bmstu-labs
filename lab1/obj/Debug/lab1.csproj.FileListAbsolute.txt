@@ -4,3 +4,9 @@
 /Users/vasidmi/Desktop/baumanProgs/lab1/obj/Debug/lab1.csproj.CoreCompileInputs.cache
 /Users/vasidmi/Desktop/baumanProgs/lab1/obj/Debug/lab1.exe
 /Users/vasidmi/Desktop/baumanProgs/lab1/obj/Debug/lab1.pdb
+/Users/vasidmi/Documents/GitHub/bmstu-labs/lab1/bin/Debug/lab1.exe
+/Users/vasidmi/Documents/GitHub/bmstu-labs/lab1/bin/Debug/lab1.pdb
+/Users/vasidmi/Documents/GitHub/bmstu-labs/lab1/obj/Debug/lab1.csprojResolveAssemblyReference.cache
+/Users/vasidmi/Documents/GitHub/bmstu-labs/lab1/obj/Debug/lab1.csproj.CoreCompileInputs.cache
+/Users/vasidmi/Documents/GitHub/bmstu-labs/lab1/obj/Debug/lab1.exe
+/Users/vasidmi/Documents/GitHub/bmstu-labs/lab1/obj/Debug/lab1.pdb
