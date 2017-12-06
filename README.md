@@ -1,7 +1,6 @@
-Лабораторные работы по дисциплине "Базовые компоненты интернет-технологий"
+**Разработать программу, реализующую работу с файлами.**
 ---
+> Ссылки:
 
-| Наименование |Статус |
-| --- | --- |
-| [`ЛР №1`](https://github.com/devasidmi/bmstu-labs/tree/lab1) | Сдал ✅ |
-| [`ЛР №2`](https://github.com/devasidmi/bmstu-labs/tree/lab2) | Сдал ✅ |
+ - [Form1.cs (Основной код)](https://github.com/devasidmi/bmstu-labs/blob/lab4/lab4/Form1.cs)
+ - [Отчёт WORD](https://github.com/devasidmi/bmstu-labs/blob/lab4/lab4/lr4_otchet.doc)
