@@ -1,7 +1,7 @@
-**Разработать программу, использующую делегаты.**
+**Разработать программу, реализующую работу с классами.**
 ---
 > Ссылки:
 
- - [Program.cs (Основной код)](https://github.com/devasidmi/bmstu-labs/blob/lab6/lab6/Program.cs)
- - [DelegateImplClass.cs (Делагат)](https://github.com/devasidmi/bmstu-labs/blob/lab6/lab6/DelegateImplClass.cs)
- - [Отчёт WORD](https://github.com/devasidmi/bmstu-labs/blob/lab6/lab6/lr6_otchet.doc)
+ - [Program.cs (Основной код)](https://github.com/devasidmi/bmstu-labs/blob/lab2/lab2/Program.cs)
+ - [IPrint.cs (Интерфейс)](https://github.com/devasidmi/bmstu-labs/blob/lab2/lab2/IPrint.cs)
+ - [Отчёт PDF](https://github.com/devasidmi/bmstu-labs/blob/lab2/lab2/lr2_otchet.pdf)
