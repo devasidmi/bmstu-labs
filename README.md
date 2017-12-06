@@ -1,7 +1,7 @@
-Лабораторные работы по дисциплине "Базовые компоненты интернет-технологий"
+**Разработать программу, использующую делегаты.**
 ---
+> Ссылки:
 
-| Наименование |Статус |
-| --- | --- |
-| [`ЛР №1`](https://github.com/devasidmi/bmstu-labs/tree/lab1) | Сдал ✅ |
-| [`ЛР №2`](https://github.com/devasidmi/bmstu-labs/tree/lab2) | Сдал ✅ |
+ - [Program.cs (Основной код)](https://github.com/devasidmi/bmstu-labs/blob/lab6/lab6/Program.cs)
+ - [DelegateImplClass.cs (Делагат)](https://github.com/devasidmi/bmstu-labs/blob/lab6/lab6/DelegateImplClass.cs)
+ - [Отчёт WORD](https://github.com/devasidmi/bmstu-labs/blob/lab6/lab6/lr6_otchet.doc)
